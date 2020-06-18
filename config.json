@@ -1,0 +1,4 @@
+{
+	"RssURL": "https://status.aws.amazon.com/",
+	"RegionsJSON": "https://ip-ranges.amazonaws.com/ip-ranges.json"
+}
