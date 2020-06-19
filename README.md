@@ -84,4 +84,4 @@ Download the sample output results files `sample_region_feed.txt` or `sample_ser
 
 ## As reference information
 - AWS Service Health Dashboard のRSS Feed をSlack に自動登録する #aws #slack - uchimanajet7のメモ
-	- Under construction.
+	- https://uchimanajet7.hatenablog.com/entry/2020/06/19/180000
