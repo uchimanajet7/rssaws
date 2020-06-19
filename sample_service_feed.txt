@@ -1,0 +1,2228 @@
+# Alexa for Business
+/feed subscribe https://status.aws.amazon.com/rss/a4b-us-east-1.rss
+# 
+# Amazon Kinesis Video Streams
+/feed subscribe https://status.aws.amazon.com/rss/acuity-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/acuity-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/acuity-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/acuity-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/acuity-us-west-2.rss
+# 
+# Amazon Forecast
+/feed subscribe https://status.aws.amazon.com/rss/amazonforecast-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/amazonforecast-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/amazonforecast-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/amazonforecast-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/amazonforecast-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/amazonforecast-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/amazonforecast-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/amazonforecast-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/amazonforecast-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/amazonforecast-us-west-2.rss
+# 
+# Amazon Machine Learning
+/feed subscribe https://status.aws.amazon.com/rss/aml-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/aml-us-east-1.rss
+# 
+# AWS Amplify
+/feed subscribe https://status.aws.amazon.com/rss/amplify-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/amplify-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/amplify-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/amplify-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/amplify-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/amplify-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/amplify-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/amplify-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/amplify-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/amplify-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/amplify-us-west-2.rss
+# 
+# Amazon API Gateway
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-us-west-2.rss
+# 
+# AWS Application Discovery Service
+/feed subscribe https://status.aws.amazon.com/rss/applicationdiscoveryservice-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/applicationdiscoveryservice-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/applicationdiscoveryservice-us-west-2.rss
+# 
+# AWS App Mesh
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appmesh-us-west-2.rss
+# 
+# Amazon AppStream 2.0
+/feed subscribe https://status.aws.amazon.com/rss/appstream2-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appstream2-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/appstream2-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appstream2-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/appstream2-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appstream2-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appstream2-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appstream2-us-west-2.rss
+# 
+# AWS AppSync
+/feed subscribe https://status.aws.amazon.com/rss/appsync-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appsync-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/appsync-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appsync-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appsync-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/appsync-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appsync-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appsync-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/appsync-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/appsync-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/appsync-us-west-2.rss
+# 
+# Amazon Athena
+/feed subscribe https://status.aws.amazon.com/rss/athena-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/athena-us-west-2.rss
+# 
+# Auto Scaling
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-us-west-2.rss
+# 
+# AWS Greengrass
+/feed subscribe https://status.aws.amazon.com/rss/awsgreengrass-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsgreengrass-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsgreengrass-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsgreengrass-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsgreengrass-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsgreengrass-us-west-2.rss
+# 
+# AWS IoT Core
+/feed subscribe https://status.aws.amazon.com/rss/awsiot-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsiot-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsiot-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsiot-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsiot-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsiot-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsiot-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsiot-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsiot-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/awsiot-us-west-2.rss
+# 
+# AWS IoT Device Management
+/feed subscribe https://status.aws.amazon.com/rss/awsiotdevicemanagement.rss
+# 
+# AWS WAF
+/feed subscribe https://status.aws.amazon.com/rss/awswaf.rss
+# 
+# AWS Backup
+/feed subscribe https://status.aws.amazon.com/rss/backup-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/backup-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/backup-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/backup-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/backup-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/backup-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/backup-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/backup-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/backup-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/backup-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/backup-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/backup-us-west-2.rss
+# 
+# AWS Batch
+/feed subscribe https://status.aws.amazon.com/rss/batch-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/batch-us-west-2.rss
+# 
+# AWS Billing Console
+/feed subscribe https://status.aws.amazon.com/rss/billingconsole.rss
+# 
+# Amazon Keyspaces
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cassandra-us-west-2.rss
+# 
+# AWS Certificate Manager
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-us-west-2.rss
+# 
+# AWS Chatbot
+/feed subscribe https://status.aws.amazon.com/rss/chatbot.rss
+# 
+# Amazon Chime
+/feed subscribe https://status.aws.amazon.com/rss/chime.rss
+# 
+# AWS Client VPN
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clientvpn-us-west-2.rss
+# 
+# AWS Cloud9
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloud9-us-west-2.rss
+# 
+# Amazon Cloud Directory
+/feed subscribe https://status.aws.amazon.com/rss/clouddirectory-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clouddirectory-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/clouddirectory-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clouddirectory-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clouddirectory-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clouddirectory-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/clouddirectory-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/clouddirectory-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/clouddirectory-us-west-2.rss
+# 
+# AWS CloudFormation
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudformation-us-west-2.rss
+# 
+# Amazon CloudFront
+/feed subscribe https://status.aws.amazon.com/rss/cloudfront.rss
+# 
+# AWS CloudHSM
+/feed subscribe https://status.aws.amazon.com/rss/cloudhsm-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudhsm-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudhsm-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudhsm-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudhsm-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudhsm-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudhsm-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudhsm-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudhsm-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudhsm-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudhsm-us-west-2.rss
+# 
+# Amazon CloudSearch
+/feed subscribe https://status.aws.amazon.com/rss/cloudsearch-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudsearch-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudsearch-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudsearch-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudsearch-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudsearch-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudsearch-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudsearch-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudsearch-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudsearch-us-west-2.rss
+# 
+# AWS CloudTrail
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-us-west-2.rss
+# 
+# Amazon CloudWatch
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-us-west-2.rss
+# 
+# AWS CodeBuild
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codebuild-us-west-2.rss
+# 
+# AWS CodeCommit
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codecommit-us-west-2.rss
+# 
+# AWS CodeDeploy
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codedeploy-us-west-2.rss
+# 
+# AWS CodePipeline
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codepipeline-us-west-2.rss
+# 
+# AWS CodeStar
+/feed subscribe https://status.aws.amazon.com/rss/codestar-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codestar-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codestar-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codestar-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codestar-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codestar-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codestar-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codestar-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codestar-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codestar-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codestar-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/codestar-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/codestar-us-west-2.rss
+# 
+# Amazon Cognito
+/feed subscribe https://status.aws.amazon.com/rss/cognito-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cognito-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cognito-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cognito-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cognito-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cognito-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cognito-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cognito-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cognito-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cognito-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/cognito-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/cognito-us-west-2.rss
+# 
+# Amazon Comprehend
+/feed subscribe https://status.aws.amazon.com/rss/comprehend-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehend-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehend-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehend-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehend-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehend-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehend-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehend-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehend-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehend-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehend-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehend-us-west-2.rss
+# 
+# Amazon Comprehend Medical
+/feed subscribe https://status.aws.amazon.com/rss/comprehendmedical-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehendmedical-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehendmedical-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehendmedical-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehendmedical-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/comprehendmedical-us-west-2.rss
+# 
+# AWS Config
+/feed subscribe https://status.aws.amazon.com/rss/config-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-us-west-2.rss
+# 
+# Amazon Connect
+/feed subscribe https://status.aws.amazon.com/rss/connect-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/connect-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/connect-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/connect-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/connect-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/connect-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/connect-us-west-2.rss
+# 
+# AWS Control Tower
+/feed subscribe https://status.aws.amazon.com/rss/controltower-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/controltower-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/controltower-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/controltower-us-west-2.rss
+# 
+# AWS Data Exchange
+/feed subscribe https://status.aws.amazon.com/rss/dataexchange-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dataexchange-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dataexchange-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dataexchange-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dataexchange-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dataexchange-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dataexchange-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dataexchange-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dataexchange-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dataexchange-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dataexchange-us-west-2.rss
+# 
+# AWS Data Pipeline
+/feed subscribe https://status.aws.amazon.com/rss/datapipeline-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datapipeline-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/datapipeline-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datapipeline-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datapipeline-us-west-2.rss
+# 
+# AWS DataSync
+/feed subscribe https://status.aws.amazon.com/rss/datasync-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/datasync-us-west-2.rss
+# 
+# AWS DeepComposer
+/feed subscribe https://status.aws.amazon.com/rss/deepcomposer-us-east-1.rss
+# 
+# AWS DeepLens
+/feed subscribe https://status.aws.amazon.com/rss/deeplens-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/deeplens-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/deeplens-us-east-1.rss
+# 
+# AWS DeepRacer
+/feed subscribe https://status.aws.amazon.com/rss/deepracer-us-east-1.rss
+# 
+# Amazon Detective
+/feed subscribe https://status.aws.amazon.com/rss/detective-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/detective-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/detective-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/detective-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/detective-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/detective-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/detective-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/detective-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/detective-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/detective-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/detective-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/detective-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/detective-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/detective-us-west-2.rss
+# 
+# AWS Device Farm
+/feed subscribe https://status.aws.amazon.com/rss/devicefarm-us-west-2.rss
+# 
+# AWS Direct Connect
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directconnect-us-west-2.rss
+# 
+# AWS Directory Service
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/directoryservice-us-west-2.rss
+# 
+# Amazon Data Lifecycle Manager
+/feed subscribe https://status.aws.amazon.com/rss/dlm-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dlm-us-west-2.rss
+# 
+# AWS Database Migration Service
+/feed subscribe https://status.aws.amazon.com/rss/dms-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-us-west-2.rss
+# 
+# Amazon DocumentDB
+/feed subscribe https://status.aws.amazon.com/rss/docdb-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/docdb-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/docdb-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/docdb-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/docdb-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/docdb-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/docdb-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/docdb-us-west-2.rss
+# 
+# Amazon DynamoDB
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-us-west-2.rss
+# 
+# Amazon Elastic Compute Cloud
+/feed subscribe https://status.aws.amazon.com/rss/ec2-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-us-west-2.rss
+# 
+# AWS Systems Manager
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-us-west-2.rss
+# 
+# Amazon Elastic Container Registry
+/feed subscribe https://status.aws.amazon.com/rss/ecr-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-us-west-2.rss
+# 
+# Amazon Elastic Container Service
+/feed subscribe https://status.aws.amazon.com/rss/ecs-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-us-west-2.rss
+# 
+# Amazon Elastic Kubernetes Service
+/feed subscribe https://status.aws.amazon.com/rss/eks-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/eks-us-west-2.rss
+# 
+# Amazon ElastiCache
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticache-us-west-2.rss
+# 
+# AWS Elastic Beanstalk
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticbeanstalk-us-west-2.rss
+# 
+# Amazon Elastic File System
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticfilesystem-us-west-2.rss
+# 
+# Amazon Elasticsearch Service
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elasticsearch-us-west-2.rss
+# 
+# Amazon Elastic Transcoder
+/feed subscribe https://status.aws.amazon.com/rss/elastictranscoder-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elastictranscoder-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elastictranscoder-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elastictranscoder-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elastictranscoder-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elastictranscoder-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elastictranscoder-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elastictranscoder-us-west-2.rss
+# 
+# Amazon Elastic Load Balancing
+/feed subscribe https://status.aws.amazon.com/rss/elb-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-us-west-2.rss
+# 
+# AWS Elemental MediaLive
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmedialive-us-west-2.rss
+# 
+# AWS Elemental MediaPackage
+/feed subscribe https://status.aws.amazon.com/rss/elementalmediapackage-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmediapackage-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmediapackage-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmediapackage-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmediapackage-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmediapackage-us-west-2.rss
+# 
+# AWS Elemental MediaStore
+/feed subscribe https://status.aws.amazon.com/rss/elementalmediastore-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmediastore-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmediastore-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmediastore-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmediastore-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/elementalmediastore-us-west-2.rss
+# 
+# Amazon Elastic MapReduce
+/feed subscribe https://status.aws.amazon.com/rss/emr-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/emr-us-west-2.rss
+# 
+# Amazon EventBridge
+/feed subscribe https://status.aws.amazon.com/rss/events-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-us-west-2.rss
+# 
+# Amazon Kinesis Firehose
+/feed subscribe https://status.aws.amazon.com/rss/firehose-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/firehose-us-west-2.rss
+# 
+# AWS Firewall Manager
+/feed subscribe https://status.aws.amazon.com/rss/fms-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/fms-us-west-1.rss
+# 
+# Amazon FreeRTOS
+/feed subscribe https://status.aws.amazon.com/rss/freertos-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/freertos-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/freertos-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/freertos-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/freertos-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/freertos-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/freertos-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/freertos-us-west-2.rss
+# 
+# Amazon FSx
+/feed subscribe https://status.aws.amazon.com/rss/fsx-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fsx-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fsx-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/fsx-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fsx-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fsx-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/fsx-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fsx-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fsx-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fsx-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/fsx-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fsx-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/fsx-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/fsx-us-west-2.rss
+# 
+# Amazon GameLift
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/gamelift-us-west-2.rss
+# 
+# Amazon Glacier
+/feed subscribe https://status.aws.amazon.com/rss/glacier-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glacier-us-west-2.rss
+# 
+# AWS Global Accelerator
+/feed subscribe https://status.aws.amazon.com/rss/globalaccelerator.rss
+# 
+# AWS Glue
+/feed subscribe https://status.aws.amazon.com/rss/glue-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glue-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/glue-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glue-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glue-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/glue-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glue-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glue-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glue-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/glue-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/glue-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glue-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/glue-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/glue-us-west-2.rss
+# 
+# AWS Ground Station
+/feed subscribe https://status.aws.amazon.com/rss/groundstation-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/groundstation-us-west-2.rss
+# 
+# Amazon GuardDuty
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/guardduty-us-west-2.rss
+# 
+# AWS Identity and Access Management
+/feed subscribe https://status.aws.amazon.com/rss/iam.rss
+# 
+# EC2 Image Builder
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/imagebuilder-us-west-2.rss
+# 
+# AWS Import/Export
+/feed subscribe https://status.aws.amazon.com/rss/import-export.rss
+# 
+# Amazon Inspector
+/feed subscribe https://status.aws.amazon.com/rss/inspector-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/inspector-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/inspector-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/inspector-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/inspector-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/inspector-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/inspector-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/inspector-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/inspector-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/inspector-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/inspector-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/inspector-us-west-2.rss
+# 
+# AWS Internet Connectivity
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-us-west-2.rss
+# 
+# Amazon Inter-Region VPC Peering
+/feed subscribe https://status.aws.amazon.com/rss/interregionvpcpeering.rss
+# 
+# AWS IoT 1-Click
+/feed subscribe https://status.aws.amazon.com/rss/iot1click-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iot1click-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iot1click-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iot1click-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/iot1click-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iot1click-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/iot1click-us-west-2.rss
+# 
+# AWS IoT Analytics
+/feed subscribe https://status.aws.amazon.com/rss/iotanalytics-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotanalytics-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotanalytics-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotanalytics-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotanalytics-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotanalytics-us-west-2.rss
+# 
+# AWS IoT Device Defender
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotdevicedefender-us-west-2.rss
+# 
+# AWS IoT Events
+/feed subscribe https://status.aws.amazon.com/rss/iotevents-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotevents-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotevents-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotevents-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotevents-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotevents-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotevents-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotevents-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotevents-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotevents-us-west-2.rss
+# 
+# AWS IoT SiteWise
+/feed subscribe https://status.aws.amazon.com/rss/iotsitewise-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotsitewise-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotsitewise-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/iotsitewise-us-west-2.rss
+# 
+# Amazon Managed Streaming for Apache Kafka
+/feed subscribe https://status.aws.amazon.com/rss/kafka-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kafka-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kafka-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/kafka-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kafka-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kafka-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/kafka-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/kafka-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kafka-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/kafka-us-west-2.rss
+# 
+# Amazon Kendra
+/feed subscribe https://status.aws.amazon.com/rss/kendra-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kendra-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kendra-us-west-2.rss
+# 
+# Amazon Kinesis Data Streams
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesis-us-west-2.rss
+# 
+# Amazon Kinesis Analytics
+/feed subscribe https://status.aws.amazon.com/rss/kinesisanalytics-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesisanalytics-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kinesisanalytics-us-west-2.rss
+# 
+# AWS Key Management Service
+/feed subscribe https://status.aws.amazon.com/rss/kms-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-us-west-2.rss
+# 
+# AWS Lambda
+/feed subscribe https://status.aws.amazon.com/rss/lambda-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-us-west-2.rss
+# 
+# Amazon Lex
+/feed subscribe https://status.aws.amazon.com/rss/lex-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lex-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/lex-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lex-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lex-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/lex-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lex-us-west-2.rss
+# 
+# AWS License Manager
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/licensemanager-us-west-2.rss
+# 
+# Amazon Lightsail
+/feed subscribe https://status.aws.amazon.com/rss/lightsail-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lightsail-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/lightsail-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lightsail-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lightsail-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/lightsail-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lightsail-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lightsail-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lightsail-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/lightsail-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/lightsail-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/lightsail-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/lightsail-us-west-2.rss
+# 
+# Amazon Macie
+/feed subscribe https://status.aws.amazon.com/rss/macie-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/macie-us-west-2.rss
+# 
+# Amazon Managed Blockchain
+/feed subscribe https://status.aws.amazon.com/rss/managedblockchain-us-east-1.rss
+# 
+# AWS Management Console
+/feed subscribe https://status.aws.amazon.com/rss/management-console.rss
+# 
+# AWS Marketplace
+/feed subscribe https://status.aws.amazon.com/rss/marketplace.rss
+# 
+# AWS Elemental MediaConnect
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconnect-us-west-2.rss
+# 
+# AWS Elemental MediaConvert
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediaconvert-us-west-2.rss
+# 
+# AWS Elemental MediaTailor
+/feed subscribe https://status.aws.amazon.com/rss/mediatailor-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediatailor-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediatailor-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediatailor-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediatailor-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mediatailor-us-west-2.rss
+# 
+# AWS Migration Hub
+/feed subscribe https://status.aws.amazon.com/rss/migrationhub-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/migrationhub-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/migrationhub-us-west-2.rss
+# 
+# AWS Mobile Hub
+/feed subscribe https://status.aws.amazon.com/rss/mobilehub-us-east-1.rss
+# 
+# Amazon MQ
+/feed subscribe https://status.aws.amazon.com/rss/mq-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/mq-us-west-2.rss
+# 
+# AWS NAT Gateway
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-us-west-2.rss
+# 
+# Amazon Neptune
+/feed subscribe https://status.aws.amazon.com/rss/neptune-db-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/neptune-db-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/neptune-db-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/neptune-db-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/neptune-db-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/neptune-db-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/neptune-db-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/neptune-db-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/neptune-db-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/neptune-db-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/neptune-db-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/neptune-db-us-west-2.rss
+# 
+# AWS OpsWorks Stacks
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworks-us-west-2.rss
+# 
+# AWS OpsWorks for Chef Automate
+/feed subscribe https://status.aws.amazon.com/rss/opsworkschef-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkschef-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkschef-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkschef-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkschef-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkschef-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkschef-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkschef-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkschef-us-west-2.rss
+# 
+# AWS OpsWorks for Puppet Enterprise
+/feed subscribe https://status.aws.amazon.com/rss/opsworkspuppet-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkspuppet-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkspuppet-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkspuppet-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkspuppet-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkspuppet-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkspuppet-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkspuppet-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/opsworkspuppet-us-west-2.rss
+# 
+# AWS Organizations
+/feed subscribe https://status.aws.amazon.com/rss/organizations.rss
+# 
+# Amazon Personalize
+/feed subscribe https://status.aws.amazon.com/rss/personalize-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/personalize-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/personalize-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/personalize-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/personalize-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/personalize-us-west-2.rss
+# 
+# Amazon Pinpoint
+/feed subscribe https://status.aws.amazon.com/rss/pinpoint-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/pinpoint-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/pinpoint-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/pinpoint-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/pinpoint-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/pinpoint-us-west-2.rss
+# 
+# Amazon Polly
+/feed subscribe https://status.aws.amazon.com/rss/polly-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/polly-us-west-2.rss
+# 
+# AWS VPCE PrivateLink
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-us-west-2.rss
+# 
+# Amazon Quantum Ledger Database
+/feed subscribe https://status.aws.amazon.com/rss/qldb-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/qldb-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/qldb-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/qldb-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/qldb-us-west-2.rss
+# 
+# AWS QuickSight
+/feed subscribe https://status.aws.amazon.com/rss/quicksight-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/quicksight-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/quicksight-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/quicksight-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/quicksight-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/quicksight-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/quicksight-us-west-2.rss
+# 
+# AWS Resource Access Manager
+/feed subscribe https://status.aws.amazon.com/rss/ram-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ram-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ram-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ram-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ram-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ram-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ram-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ram-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ram-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ram-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/ram-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ram-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ram-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ram-us-west-2.rss
+# 
+# Amazon Relational Database Service
+/feed subscribe https://status.aws.amazon.com/rss/rds-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-us-west-2.rss
+# 
+# Amazon Redshift
+/feed subscribe https://status.aws.amazon.com/rss/redshift-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/redshift-us-west-2.rss
+# 
+# Amazon Rekognition
+/feed subscribe https://status.aws.amazon.com/rss/rekognition-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rekognition-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/rekognition-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rekognition-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/rekognition-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/rekognition-us-west-2.rss
+# 
+# AWS Resource Groups
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroups.rss
+# 
+# AWS Resource Groups Tagging API
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-us-west-2.rss
+# 
+# AWS RoboMaker
+/feed subscribe https://status.aws.amazon.com/rss/robomaker-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/robomaker-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/robomaker-us-west-2.rss
+# 
+# Amazon Route 53
+/feed subscribe https://status.aws.amazon.com/rss/route53.rss
+# 
+# Amazon Route 53 Private DNS
+/feed subscribe https://status.aws.amazon.com/rss/route53-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53-us-west-2.rss
+# 
+# Amazon Route 53 Domain Registration
+/feed subscribe https://status.aws.amazon.com/rss/route53domainregistration.rss
+# 
+# Amazon Route 53 Resolver
+/feed subscribe https://status.aws.amazon.com/rss/route53resolver-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53resolver-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53resolver-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53resolver-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53resolver-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53resolver-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53resolver-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53resolver-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53resolver-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53resolver-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53resolver-us-west-2.rss
+# 
+# Amazon Simple Storage Service
+/feed subscribe https://status.aws.amazon.com/rss/s3-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-us-standard.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-us-west-2.rss
+# 
+# Amazon SageMaker
+/feed subscribe https://status.aws.amazon.com/rss/sagemaker-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sagemaker-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sagemaker-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sagemaker-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sagemaker-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sagemaker-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sagemaker-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sagemaker-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/sagemaker-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sagemaker-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sagemaker-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sagemaker-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sagemaker-us-west-2.rss
+# 
+# AWS Secrets Manager
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/secretsmanager-us-west-2.rss
+# 
+# AWS Security Hub
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/securityhub-us-west-2.rss
+# 
+# AWS Serverless Application Repository
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/serverlessrepo-us-west-2.rss
+# 
+# AWS Service Catalog
+/feed subscribe https://status.aws.amazon.com/rss/servicecatalog-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicecatalog-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicecatalog-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicecatalog-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicecatalog-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicecatalog-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicecatalog-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicecatalog-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicecatalog-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicecatalog-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicecatalog-us-west-2.rss
+# 
+# AWS Cloud Map
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/servicediscovery-us-west-2.rss
+# 
+# Amazon Simple Email Service
+/feed subscribe https://status.aws.amazon.com/rss/ses-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ses-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ses-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ses-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ses-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ses-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/ses-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ses-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/ses-us-west-2.rss
+# 
+# Amazon SimpleDB
+/feed subscribe https://status.aws.amazon.com/rss/simpledb-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/simpledb-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/simpledb-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/simpledb-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/simpledb-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/simpledb-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/simpledb-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/simpledb-us-west-2.rss
+# 
+# Amazon Simple Notification Service
+/feed subscribe https://status.aws.amazon.com/rss/sns-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-us-west-2.rss
+# 
+# Amazon Simple Queue Service
+/feed subscribe https://status.aws.amazon.com/rss/sqs-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-us-west-2.rss
+# 
+# AWS Single Sign-On
+/feed subscribe https://status.aws.amazon.com/rss/sso-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sso-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sso-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sso-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sso-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sso-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sso-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sso-us-west-2.rss
+# 
+# AWS Step Functions
+/feed subscribe https://status.aws.amazon.com/rss/state-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-us-west-2.rss
+# 
+# AWS Storage Gateway
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/storagegateway-us-west-2.rss
+# 
+# Amazon Sumerian
+/feed subscribe https://status.aws.amazon.com/rss/sumerian-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sumerian-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sumerian-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sumerian-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/sumerian-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/sumerian-us-west-2.rss
+# 
+# AWS Support Center
+/feed subscribe https://status.aws.amazon.com/rss/supportcenter.rss
+# 
+# Amazon Simple Workflow Service
+/feed subscribe https://status.aws.amazon.com/rss/swf-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/swf-us-west-2.rss
+# 
+# Amazon Textract
+/feed subscribe https://status.aws.amazon.com/rss/textract-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/textract-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/textract-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/textract-us-west-2.rss
+# 
+# AWS IoT Things Graph
+/feed subscribe https://status.aws.amazon.com/rss/thingsgraph-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/thingsgraph-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/thingsgraph-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/thingsgraph-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/thingsgraph-us-west-1.rss
+# 
+# Amazon Transcribe
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transcribe-us-west-2.rss
+# 
+# AWS Transfer for SFTP
+/feed subscribe https://status.aws.amazon.com/rss/transfer-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transfer-us-west-2.rss
+# 
+# AWS Transit Gateway
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/transitgateway-us-west-2.rss
+# 
+# Amazon Translate
+/feed subscribe https://status.aws.amazon.com/rss/translate-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/translate-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/translate-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/translate-us-west-2.rss
+# 
+# AWS Trusted Advisor
+/feed subscribe https://status.aws.amazon.com/rss/trustedadvisor.rss
+# 
+# Amazon Virtual Private Cloud
+/feed subscribe https://status.aws.amazon.com/rss/vpc-ap-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-ap-northeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-eu-west-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-me-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-us-west-2.rss
+# 
+# Amazon WorkDocs
+/feed subscribe https://status.aws.amazon.com/rss/workdocs-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/workdocs-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/workdocs-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/workdocs-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/workdocs-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/workdocs-us-west-2.rss
+# 
+# Amazon Worklink
+/feed subscribe https://status.aws.amazon.com/rss/worklink-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/worklink-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/worklink-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/worklink-us-west-2.rss
+# 
+# Amazon WorkMail
+/feed subscribe https://status.aws.amazon.com/rss/workmail-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/workmail-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/workmail-us-west-2.rss
+# 
+# Amazon WorkSpaces
+/feed subscribe https://status.aws.amazon.com/rss/workspaces-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/workspaces-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/workspaces-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/workspaces-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/workspaces-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/workspaces-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/workspaces-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/workspaces-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/workspaces-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/workspaces-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/workspaces-us-west-2.rss
+# 
+# AWS X-Ray
+/feed subscribe https://status.aws.amazon.com/rss/xray-af-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-ap-northeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-ap-northeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-ap-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-ap-southeast-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-ap-southeast-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-ca-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-eu-central-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-eu-north-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-eu-south-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-eu-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-eu-west-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-sa-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-us-east-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-us-east-2.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-us-west-1.rss
+/feed subscribe https://status.aws.amazon.com/rss/xray-us-west-2.rss
+# 
